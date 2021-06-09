@@ -1,0 +1,15 @@
+body {
+  text-align: center;
+}
+
+#mainImg {
+  height: 550px;
+  margin: 100px;
+  border: 1px;
+  border-style: solid;
+  padding: 5px;
+}
+
+#da_p {
+  font-size: 20px;
+}
